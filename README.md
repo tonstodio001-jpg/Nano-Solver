@@ -1,4 +1,5 @@
 # Nano Solver v2  
+everything still demo and beta
 
 "كنت ملان أسبوع… فرحت عملت القنبلة دي."  
 — Rea · 16 سنة · معجب بـ Murder Drones & Undertale
