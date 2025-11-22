@@ -1,0 +1,8 @@
+kivy[base]==2.3.1
+requests==2.32.3
+psutil==5.9.8
+reportlab==4.1.0
+dnspython==2.6.1
+python-whois==0.8.0
+yara-python==4.3.1
+pygame==2.5.2
